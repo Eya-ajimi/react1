@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 100% ;
+  max-width: 100%;
+  padding: auto;
+  height: 100%;
+  margin: 3px;
+  margin-top: 20px;
+  text-transform: uppercase;
+  text-decoration: ghostwhite;
+   color: rgb(37, 36, 36);
+   
+} 
+
+button{
+  background-color: rgb(68, 68, 67);
+   padding: auto;
+   width: 150px 
+  
+}
+.pass{
+  height: 30px;
+}
+.center {
+  margin: 30px;
+  width: 60px;
+
+}
